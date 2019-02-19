@@ -98,9 +98,8 @@ end
 # Note: This is the most efficient of the 3 attempts here #
 
 def search_range(nums, target)
-    first_number = 0
-    second_number = 0
-
+    first_number = nil
+    second_number = nil
     if nums.include?(target)
         first_number = nums.find_index(target)
         second_number = ((nums.length - 1) - nums.reverse.find_index(target))
@@ -108,8 +107,7 @@ def search_range(nums, target)
         first_number = -1
         second_number = -1
     end
-
-    [first_number, second_number]
+    return [first_number, second_number]
 end
 
 
