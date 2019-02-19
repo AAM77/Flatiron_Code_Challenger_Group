@@ -4,7 +4,7 @@
 
 This will provide us with experience collaborating on a project via GitHub.
 
-##PERMISSIONS:
+## PERMISSIONS:
 Currently, only collaborators are allowed to make changes to this repo.
 
 Collaborators, please see below for instructions.
