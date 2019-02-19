@@ -57,7 +57,7 @@ def missing(nums, str)
   sentence = str.downcase().split()
   joined_str = sentence.join()
 
-  if nums.max() <= joined_str.length
+  if nums.max() < joined_str.length
     nums = nums.sort()
 
     nums.each do |n|
