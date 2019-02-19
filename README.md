@@ -1,24 +1,28 @@
 # Flatiron_Code_Challenger_Group
-Code Challenges from Flatiron Interview Prep Group
 
-To Contributors:
+### Code Challenges from Flatiron Interview Prep Group
 
-This will provide us with experience collaborating on a project via GitHub. Here is a general overview of what GitHub is and how to use this repository.
+This will provide us with experience collaborating on a project via GitHub.
 
-## The Overview:
+##PERMISSIONS:
+Currently, only collaborators are allowed to make changes to this repo.
 
-A repository is an online folder on GitHub.
+Collaborators, please see below for instructions.
 
-A local repository is a folder on your machine.
+## An Overview of How GitHub Works:
 
-When you commit something to a repository, you are attempting to make changes to the folder and  log those changes to the folder's history.
+Please see the file: GitHub_Explanation.md on the main page of this repository.
+
 
 The best way to commit/add updates is to:
 
 1. clone the repository
-2. make changes to the repository on your machines
+2. create a new branch for the repository on your machines
+2. make changes to the that branch
 3. add & commit those changes to GitHub
 4. push those changes up
+
+Then, once the commits have been finalized and approved, they will get merged with the master branch.
 
 ## How to Use
 
