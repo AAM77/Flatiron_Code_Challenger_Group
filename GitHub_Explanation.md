@@ -52,18 +52,18 @@ We can merge different branches together. When we merge a master branch with a n
 
 ### Now, let's think of it in terms of an Images folder on our computer:
 
-                      ALL VACATION IMAGES
-                       (the repository)
-                               |
-                               |
-           --------------------------------------------
-          |                    |                       |
-Final/Edited Images    Partially Edited        New Un-Edited Images
-(the Master Folder)    (branch folder 1)         (branch folder 2)
-          |                    |                       |
-          |                    |                       |
-       Contents             Contents                Contents
-(files and folders)    (files and folders)     (files and folders)
+                        ALL VACATION IMAGES
+                         (the repository)
+                                 |
+                                 |
+             --------------------------------------------
+            |                    |                       |
+  Final/Edited Images    Partially Edited        New Un-Edited Images
+  (the Master Folder)    (branch folder 1)         (branch folder 2)
+            |                    |                       |
+            |                    |                       |
+         Contents             Contents                Contents
+  (files and folders)    (files and folders)     (files and folders)
 
 
 Here, we have a main folder that contains all of our images, called "ALL VACATION IMAGES."
@@ -83,4 +83,4 @@ The main difference between this example and GitHub is that GitHub keeps track o
 
 ## Final Comments
 
-This has been a rather bare bones and overly simplified explanation of GitHub and Repositories. I wrote it as an introduction to the most commonly used terms when talking about GitHub. It will, I hope, serve as a stepping stone to help ease the process of learning how to use GitHub. 
+This has been a rather bare bones and overly simplified explanation of GitHub and Repositories. I wrote it as an introduction to the most commonly used terms when talking about GitHub. It will, I hope, serve as a stepping stone to help ease the process of learning how to use GitHub.
