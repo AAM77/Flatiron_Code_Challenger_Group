@@ -35,6 +35,8 @@ We can merge different branches together. When we merge a master branch with a n
 
 ### Here is an image to help with the understanding:
 
+```
+
                            Main Folder
                         (the repository)
                                |
@@ -48,10 +50,13 @@ We can merge different branches together. When we merge a master branch with a n
             Contents                      Contents
        (files and folders)           (files and folders)
 
+```
+
 
 
 ### Now, let's think of it in terms of an Images folder on our computer:
 
+```
                         ALL VACATION IMAGES
                          (the repository)
                                  |
@@ -64,6 +69,8 @@ We can merge different branches together. When we merge a master branch with a n
             |                    |                       |
          Contents             Contents                Contents
   (files and folders)    (files and folders)     (files and folders)
+
+  ```
 
 
 Here, we have a main folder that contains all of our images, called "ALL VACATION IMAGES."
