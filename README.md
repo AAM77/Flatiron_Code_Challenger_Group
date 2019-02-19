@@ -2,7 +2,8 @@
 
 ### Code Challenges from Flatiron Interview Prep Group
 
-This will provide us with experience collaborating on a project via GitHub.
+This repository contains all of the challenges from our in-person and webinar sessions.
+Each file for a challenge contains its name, difficulty, source, url, solution, and who attempted it.
 
 ## PERMISSIONS:
 Currently, only collaborators are allowed to make changes to this repo.
