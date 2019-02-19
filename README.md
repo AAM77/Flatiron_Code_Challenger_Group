@@ -19,7 +19,7 @@ Please see the [Code Challenge Resources PDF ](https://github.com/AAM77/Flatiron
 Currently, only collaborators are allowed to make changes to this repo.
 
 Collaborators, please see below for instructions.
-https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/GitHub_Explanation.md
+
 ## An Overview of How GitHub Works:
 
 Please see the [GitHub Explanation File](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Basic Explanation of GitHub") on the main page of this repository for a basic understanding of how GitHub works and the common terms associated with its use.
