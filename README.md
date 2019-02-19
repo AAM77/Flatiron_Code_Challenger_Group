@@ -46,8 +46,8 @@ Then, once the commits have been finalized and approved, they will get merged wi
 4. Copy and paste the contents of the challenge_template into every new file you create when adding a new challenge. Fill in the info as listed.
 
 5. Add .
-6. commit -m "<a message with any notes you wish to make"
-7. git push origin [branch_name]
+6. commit -m "[a message with any notes you wish to make]"
+7. git push [location url] [branch_name]
 
 
 
