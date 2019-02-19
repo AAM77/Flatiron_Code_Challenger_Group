@@ -1,9 +1,24 @@
-# Link: https://www.codewars.com/kata/jenny-the-youngest-detective/train/ruby
-
-###########
-# PROBLEM #
-###########
-
+# Name: Jenny Youngest Detective
+# Source: CodeWars
+# Level: 7 kyu
+#
+# URL: https://www.codewars.com/kata/jenny-the-youngest-detective/train/ruby
+#
+# Provided by:
+# Paula
+#
+# Attempted by:
+# 1. Paula (pre-meeting)
+# 2. Adeel - 02/18/2019
+#
+#
+##################
+#                #
+#  Instructions  #
+#                #
+##################
+#
+#
 # Jenny is 9 years old. She is the youngest detective in North America. Jenny is a 3rd grader student, so when a new mission comes up, she gets a code to decipher in a form of a sticker (with numbers) in her math notebook and a comment (a sentence) in her writing notebook. All she needs to do is to figure out one word, from there she already knows what to do. And here comes your role - you can help Jenny find out what the word is!
 #
 # In order to find out what the word is, you should use the sticker (array of 3 numbers) to retrive 3 letters from the comment (string) that create the word.
@@ -15,28 +30,27 @@
 # Example: input: [5, 0, 3], "I Love You" output: "ivy" (0 = "i", 3 = "v", 5 = "y")
 
 
-##################
-# My PseudoCode: #
-##################
+#################
+#  PseudoCode:  #
+#################
 
-# I get a sentence
+# Receive a sentence
   # lowercase everytihng
   # I split the sentence into words, with the space (' ') as the delimiter
   # get the letters from the nums array
   # join the letters
   # output the result
 
-#################
-# MY SOLUTION 1 #
-#################
+
+##################
+# RUBY SOLUTIONS #
+##################
+
+#*******************#
+# Adeel's Attempt 1 #
+#*******************#
 
 def missing(nums, str)
-  # I get a sentence
-  # lowercase everytihng
-  # I split the sentence into words, with the space (' ') as the delimiter
-  # get the letters from the nums array
-  # join the letters
-  # output the result
 
   word = []
 
@@ -55,3 +69,24 @@ def missing(nums, str)
     "No mission today"
   end
 end
+
+
+########################
+# JAVASCRIPT SOLUTIONS #
+########################
+
+#**********************#
+# [person's] Attempt 1 #
+#**********************#
+
+#**********************#
+# [person's] Attempt 2 #
+#**********************#
+
+#******************************#
+# [another person's] Attempt 1 #
+#******************************#
+
+#******************************#
+# [another person's] Attempt 2 #
+#******************************#

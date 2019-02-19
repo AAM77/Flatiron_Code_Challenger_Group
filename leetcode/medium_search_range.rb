@@ -1,9 +1,24 @@
-# Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-
-###########
-# PROBLEM #
-###########
-
+# Name: Find First and Last Position of Element in Sorted Array
+# Source: LeetCode
+# Level: medium
+#
+# URL: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+#
+# Provided by:
+# Adeel M.
+#
+#
+# Attempted by:
+# 1. Adeel (pre-meeting)
+# 2. Paul - 02/18/2019
+#
+#
+##################
+#                #
+#  Instructions  #
+#                #
+##################
+#
 # Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value.
 #
 # Your algorithm's runtime complexity must be in the order of O(log n).
@@ -20,9 +35,9 @@
 # Output: [-1,-1]
 
 
-##################
-# My PseudoCode: #
-##################
+###############
+# PseudoCode: #
+###############
 
 # set up and empty array for indices
 # first check if the target is in the array
@@ -35,9 +50,16 @@
 # else:
    # return [-1,-1]
 
-#################
-# MY SOLUTION 1 #
-#################
+
+
+##################
+# RUBY SOLUTIONS #
+##################
+
+#*******************#
+# Adeel's Attempt 1 #
+#*******************#
+
 def search_range(nums, target)
   emp = []
   if nums.include?(target)
@@ -54,9 +76,9 @@ def search_range(nums, target)
   end
 end
 
-#################
-# MY SOLUTION 2 #
-#################
+#*******************#
+# Adeel's Attempt 2 #
+#*******************#
 
 def search_range(nums, target)
     emp = []
@@ -67,3 +89,46 @@ def search_range(nums, target)
         [-1,-1]
     end
 end
+
+
+
+#*******************#
+# Pauls's Attempt 1 #
+#*******************#
+# Note: This is the most efficient of the 3 attempts here #
+
+def search_range(nums, target)
+    first_number = 0
+    second_number = 0
+
+    if nums.include?(target)
+        first_number = nums.find_index(target)
+        second_number = ((nums.length - 1) - nums.reverse.find_index(target))
+    else
+        first_number = -1
+        second_number = -1
+    end
+
+    [first_number, second_number]
+end
+
+
+########################
+# JAVASCRIPT SOLUTIONS #
+########################
+
+#**********************#
+# [person's] Attempt 1 #
+#**********************#
+
+#**********************#
+# [person's] Attempt 2 #
+#**********************#
+
+#******************************#
+# [another person's] Attempt 1 #
+#******************************#
+
+#******************************#
+# [another person's] Attempt 2 #
+#******************************#
