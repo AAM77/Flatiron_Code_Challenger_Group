@@ -1,6 +1,6 @@
 # Name: Jenny Youngest Detective
 # Source: CodeWars
-# Level: 7 kyu
+# Difficulty: 7 kyu
 #
 # URL: https://www.codewars.com/kata/jenny-the-youngest-detective/train/ruby
 #

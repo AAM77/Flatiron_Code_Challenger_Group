@@ -1,6 +1,6 @@
 # Name: Find First and Last Position of Element in Sorted Array
 # Source: LeetCode
-# Level: medium
+# Difficulty: medium
 #
 # URL: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 #
