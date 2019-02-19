@@ -1,9 +1,19 @@
 # Flatiron_Code_Challenger_Group
 
-### Code Challenges from Flatiron Interview Prep Group
+## Code Challenges from Flatiron Interview Prep Group
 
 This repository contains all of the challenges from our in-person and webinar sessions.
 Each file for a challenge contains its name, difficulty, source, url, solution, and who attempted it.
+
+## FOR THE NEW FOLKS:
+
+Hi there and welcome!
+
+First:
+Please read the Meeting_Guidelines.md file for meeting etiquette and expectations.
+
+Second:
+Please see the Resources.md file.
 
 ## PERMISSIONS:
 Currently, only collaborators are allowed to make changes to this repo.
