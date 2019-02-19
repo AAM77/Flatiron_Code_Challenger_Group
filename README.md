@@ -22,7 +22,19 @@ The best way to commit/add updates is to:
 
 ## How to Use
 
-Please see the following link for a detailed explanation for mac/windows/linux:
+1. Make the updates to a new branch. Include the date in its title.
+
+2. Copy and paste the mon_date_year folder.
+
+3. Edit its name and the folders/files it contains to reflect the challenges presented during that meeting.
+
+4. Add .
+5. commit -m "<a message with any notes you wish to make"
+6. git push origin [branch_name]
+
+
+
+Please see the following link for a detailed explanation for how to collaborate using mac/windows/linux:
 
 https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
 
