@@ -1,0 +1,80 @@
+# Name: Container With Most Water
+# Difficulty: Medium
+#
+# --- sources ---
+# Website: LeetCode
+# URL: https://leetcode.com/problems/container-with-most-water/
+#
+#
+#
+# Provided by:
+# Paul
+#
+# Attempted by:
+# 1. Paul (pre-meeting)
+# 2. Theresa
+#
+#
+#
+##################
+#                #
+#  Instructions  #
+#                #
+##################
+#
+#
+# Given n non-negative integers a1,
+# a2, ..., an , where each represents
+# a point at coordinate (i, ai).
+# n vertical lines are drawn such
+# that the two endpoints of line i
+# is at (i, ai) and (i, 0). Find
+# two lines, which together with
+# x-axis forms a container, such
+# that the container contains the
+# most water.
+#
+# Note: You may not slant the container and n is at least 2.
+# #
+# Input: [1,8,6,2,5,4,8,3,7]
+# Output: 49
+#
+##############
+# PSEUDOCODE #
+##############
+
+# Note: I used a loop within a loop
+# which has a time efficiency of
+# O(n2). Could most likely be
+# improved.
+
+
+
+########################
+# JAVASCRIPT SOLUTIONS #
+########################
+
+#*********************#
+# Theresa's Attempt 1 #
+#*********************#
+
+var maxArea = function(heightArray) {
+    let maxArea = 0;
+
+    for (let leftIndex = 0; leftIndex < heightArray.length - 1; leftIndex++) {
+        for (let rightIndex = leftIndex + 1; rightIndex < heightArray.length; rightIndex++) {
+
+            // for a set of left/right indices
+            // find horizontal distance between them
+            const x = rightIndex - leftIndex;
+
+            // and the shorter vertical distance
+            const y = Math.min(heightArray[leftIndex], heightArray[rightIndex]);
+
+            // if this area is larger than the current maxArea, make it the new maxArea
+            maxArea = Math.max(maxArea, x * y);
+        }
+    }
+
+    return maxArea;
+};

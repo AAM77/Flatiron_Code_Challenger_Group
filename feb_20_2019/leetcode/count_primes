@@ -1,0 +1,120 @@
+# Name: Count Primes
+# Difficulty: Easy
+#
+# --- sources ---
+# Website: LeetCode
+# URL: https://leetcode.com/problems/count-primes/
+#
+#
+# Provided by:
+# Adeel
+#
+# Attempted by:
+# 1. Adeel (Python) - Pre-meeting
+# 2. Paul (JavaScript)
+#
+#
+##################
+#                #
+#  Instructions  #
+#                #
+##################
+#
+#
+# Count the number of prime numbers less than a non-negative number, n.
+#
+# Example:
+#
+# Input: 10
+# Output: 4
+# Explanation: There are 4 prime numbers less than 10, they are 2, 3, 5, 7.
+#
+#
+##############
+# PSEUDOCODE #
+##############
+#
+
+
+
+##################
+# RUBY SOLUTIONS #
+##################
+
+#**********************#
+# [person's] Attempt 1 #
+#**********************#
+
+
+
+#******************************#
+# [another person's] Attempt 1 #
+#******************************#
+
+
+
+
+
+
+########################
+# JAVASCRIPT SOLUTIONS #
+########################
+
+#******************#
+# Paul's Attempt 1 #
+#******************#
+
+var countPrimes = function(n) {
+
+    if (n === 0 || n === 1 || n === 2) {
+        return 0;
+    }
+
+    let arr = []
+    let num = 2
+
+    while ( num < n ) {
+        if ( check_prime(num) ) {
+            arr.push(num)
+        }
+        num += 1;
+    }
+
+    function check_prime (num) {
+        for (let i = 2; i < num; i++) {
+           if (num % i === 0 ) {
+            return false
+           }
+        }
+        return true;
+    }
+
+    return arr.length
+};
+
+
+####################
+# PYTHON SOLUTIONS #
+####################
+
+#*******************#
+# Adeel's Attempt 1 #
+#*******************#
+
+def count_primes(num):
+
+    if num < 2:
+        return 0
+    else:
+        mylist = list(range(3,num+1,2))
+        primes = [2]
+
+        while len(mylist) > 0:
+            for i,num in enumerate(mylist):
+                for prime in primes:
+                    if (num % prime == 0):
+                        mylist.pop(i)
+                        break
+            primes.append(mylist.pop(0))
+
+        return len(primes)
