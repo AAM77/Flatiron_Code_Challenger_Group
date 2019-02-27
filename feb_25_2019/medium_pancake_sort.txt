@@ -1,0 +1,89 @@
+# Name: PancakeSort
+# Difficulty: Medium
+#
+# --- sources ---
+# Website: Pramp
+# URL: https://www.pramp.com/challenge/3QnxW6xoPLTNl5jX5LM1
+#
+#
+# Attempted By:
+# Paul
+#
+#
+##################
+#                #
+#  Instructions  #
+#                #
+##################
+#
+Given an array of integers arr:
+
+Write a function flip(arr, k) that reverses the order of the first k elements in the array arr.
+Write a function pancakeSort(arr) that sorts and returns the input array.
+
+You are allowed to use only the function flip you wrote in the first step in order to make changes in the array.
+
+Example:
+
+input: arr = [1, 5, 4, 3, 2]
+
+output: [1, 2, 3, 4, 5] # to clarify, this is pancakeSort's output
+
+#
+#
+##############
+# PSEUDOCODE #
+##############
+#
+#
+#
+#
+#
+#
+#
+#
+
+########################
+# JAVASCRIPT SOLUTIONS #
+########################
+
+#******************#
+# Paul's Attempt 1 #
+#******************#
+
+function pancakeSort (arr) {
+
+ let maxIndex = 0, maxLength = arr.length - 1;
+
+ while (maxLength > 0) {
+   let max = 0;
+   for(let i = 0; i <= maxLength; i++) {
+       if(arr[i] > max) {
+           max = arr[i];
+           maxIndex = i;
+       }
+   }
+     arr = flip(arr, maxIndex + 1);
+     arr = flip(arr, maxLength + 1);
+   maxLength -= 1;
+ }
+   return arr;
+}
+
+function flip (arr, k) {
+
+ let flipArray = [], remainder = [], result=[];
+
+ for(let i = k - 1; i >= 0; i--) {
+     flipArray.push(arr[i]);
+ }
+
+ for(let i = k; i <= arr.length - 1; i++) {
+     remainder.push(arr[i]);
+ }
+
+ result = flipArray.concat(remainder)
+
+ return result;
+
+}
