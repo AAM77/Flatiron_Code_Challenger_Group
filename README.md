@@ -10,7 +10,7 @@ Each file for a challenge contains its name, difficulty, source, url, solution, 
 Hi there and welcome!
 
 First:
-Please read the [Meeting Guidelines PDF](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guideines.pdf "Meeting Guidelines") file for an explanation of meeting etiquette and expectations.
+Please read the [Meeting Guidelines PDF](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines.pdf "Meeting Guidelines") file for an explanation of meeting etiquette and expectations.
 
 Second:
 Please see the [Code Challenge Resources PDF ](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Code Challenge Resources") file for sources to find code challenges and help.
