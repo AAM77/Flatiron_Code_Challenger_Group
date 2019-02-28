@@ -2,8 +2,9 @@
 
 ## Code Challenges from Flatiron Interview Prep Group
 
-This repository contains all of the challenges from our in-person and webinar sessions.
-Each file for a challenge contains its name, difficulty, source, url, solution, and who attempted it.
+This repo is meant to help manage a weekly coding challenge group comprised of Flatiron students. It also contains all of the challenges from our in-person and webinar sessions.
+
+Please see below for more details:
 
 ## FOR THE NEW FOLKS:
 
@@ -11,13 +12,26 @@ Hi there and welcome!
 
 **First:**
 <br />
-a. lease read the [Detailed Meeting Guidelines PDF](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_Detailed.pdf " Detailed Meeting Guidelines") file for a detailed explanation of meeting etiquette and expectations.
-<br />
-b. Alternatively, you can read the TLDR version here: [TLDR Meeting Guidelines](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_TLDR.pdf "TLDR Meeting Guidelines")
+MEETING TIMES:
+
+Unless otherwise specified in the Slack Channel:  
+
+**Webinar:** Mondays & Wednesdays from 6:45 PM - 8:00 PM
+
+**In-Person:** Please see Slack for once the monthly meeting.
 <br />
 
 **Second:**
+<br />
+a. lease read the [Detailed Meeting Guidelines PDF](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_Detailed.pdf " Detailed Meeting Guidelines") file for a detailed explanation of meeting etiquette and expectations.
+<br />
+b. Alternatively, you can read the TLDR version here: [TLDR Meeting Guidelines](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_TLDR.pdf "TLDR Meeting Guidelines")
+
+**Third:**
+<br />
 Please see the [Code Challenge Resources PDF ](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Code Challenge Resources") file for sources to find code challenges and help.
+<br />
+
 
 ## PERMISSIONS:
 Currently, only collaborators are allowed to make changes to this repo.
@@ -26,7 +40,7 @@ Collaborators, please see below for instructions.
 
 ## An Overview of How GitHub Works:
 
-Please see the [GitHub Explanation File](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Basic Explanation of GitHub") on the main page of this repository for a basic understanding of how GitHub works and the common terms associated with its use.
+Please see the [GitHub Explanation File](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/GitHub_Explanation.md "Basic Explanation of GitHub") on the main page of this repository for a basic understanding of how GitHub works and the common terms associated with its use.
 
 
 The best way to commit/add updates is to:
