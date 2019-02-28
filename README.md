@@ -11,24 +11,24 @@ Please see below for more details:
 Hi there and welcome!
 
 ### First:
-<br />
-MEETING TIMES:
+**MEETING TIMES:**
 
-Unless otherwise specified in the Slack Channel:  
+*Unless otherwise specified in the Slack Channel:*
 
 **Webinar:** Mondays & Wednesdays from 6:45 PM - 8:00 PM
 
 **In-Person:** Please see Slack for once the monthly meeting.
 <br />
+<br />
 
 ### Second:
-<br />
 a. lease read the [Detailed Meeting Guidelines PDF](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_Detailed.pdf " Detailed Meeting Guidelines") file for a detailed explanation of meeting etiquette and expectations.
 <br />
 b. Alternatively, you can read the TLDR version here: [TLDR Meeting Guidelines](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_TLDR.pdf "TLDR Meeting Guidelines")
+<br />
+<br />
 
 ### Third:
-<br />
 Please see the [Code Challenge Resources PDF ](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Code Challenge Resources") file for sources to find code challenges and help.
 <br />
 
