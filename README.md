@@ -15,7 +15,7 @@ Hi there and welcome!
 
 **Webinar:** Mondays & Wednesdays from 6:45 PM - 8:00 PM
 
-**In-Person:** Please see Slack for once the monthly meeting.
+**In-Person:** Please see Slack for the date & time of the monthly meeting.
 <br />
 <br />
 
