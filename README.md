@@ -27,7 +27,7 @@ b. Alternatively, you can read the TLDR version here: [TLDR Meeting Guidelines](
 <br />
 
 ### Third: Resources
-Please see the [Code Challenge Resources PDF ](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Code Challenge Resources") file for sources to find code challenges and help.
+Please see the [Code Challenge Resources PDF ](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Code Challenge Resources") file for resources to find code challenges and help. You can use other sources as well.
 <br />
 <br />
 
@@ -36,12 +36,11 @@ Use the [Choose Participant](https://github.com/AAM77/Flatiron_Code_Challenger_G
 
 1. On a mac, open a new tab in the Google Chrome browser.
 2. Press Command-Option-J to open the developer tools.<br />
-2. Click on the 'console' tab of the developer tools.<br />
-3. Copy & Paste the code from the [Choose Participant](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/choose_participant.js "Choose Participant") JS file into the console.<br />
-4. Fill in the participants array with the names (or abbreviations) of the eligible number of participants.<br />
-5. Hit enter to see who goes.<br />
-<br />
-6. You can make this a bit more fun by having the participant do this at the end of her/his turn.
+3. Click on the 'console' tab of the developer tools.<br />
+4. Copy & Paste the code from the [Choose Participant](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/choose_participant.js "Choose Participant") JS file into the console.<br />
+5. Fill in the participants array with the names (or abbreviations) of the eligible number of participants.<br />
+6. Hit enter to see who goes.<br />
+7. You can make things a bit more fun by having the participant do this at the end of her/his turn.
 <br />
 
 ## PERMISSIONS:
