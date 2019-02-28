@@ -9,13 +9,15 @@ Each file for a challenge contains its name, difficulty, source, url, solution, 
 
 Hi there and welcome!
 
-First:
-\n
+**First:**
+<br />
 a. lease read the [Detailed Meeting Guidelines PDF](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_Detailed.pdf " Detailed Meeting Guidelines") file for a detailed explanation of meeting etiquette and expectations.
-\n
+<br />
+<br />
 b. Alternatively, you can read the TLDR version here: [TLDR Meeting Guidelines](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_TLDR.pdf "TLDR Meeting Guidelines")
+<br />
 
-Second:
+**Second:**
 Please see the [Code Challenge Resources PDF ](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Code Challenge Resources") file for sources to find code challenges and help.
 
 ## PERMISSIONS:
