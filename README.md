@@ -29,7 +29,20 @@ b. Alternatively, you can read the TLDR version here: [TLDR Meeting Guidelines](
 ### Third: Resources
 Please see the [Code Challenge Resources PDF ](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Code Challenge Resources") file for sources to find code challenges and help.
 <br />
+<br />
 
+### Fourth: Random Participant
+Use the [Choose Participant](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Choose Participant") selects a participant at random if no one volunteers.
+
+1. One a mac, open a new tab in the Google Chrome browser.
+2. Press Command-Option-J to open the developer tools.<br />
+2. Click on the 'console' tab of the developer tools.<br />
+3. Copy & Paste the code from the [Choose Participant](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Choose Participant") JS file into the console.<br />
+4. Fill in the participants array with the names (or abbreviations) of the eligible number of participants.<br />
+5. Hit enter to see who goes.<br />
+<br />
+6. You can make this a bit more fun by having the participant do this at the end of her/his turn.
+<br />
 
 ## PERMISSIONS:
 Currently, only collaborators are allowed to make changes to this repo.
