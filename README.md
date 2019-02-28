@@ -10,7 +10,7 @@ Please see below for more details:
 
 Hi there and welcome!
 
-### First: **MEETING TIMES:** <br />
+### First: **Meeting Times** <br />
 ( *Unless otherwise specified in the Slack Channel:* )
 
 **Webinar:** Mondays & Wednesdays from 6:45 PM - 8:00 PM
