@@ -12,8 +12,7 @@ Hi there and welcome!
 
 ### First:
 **MEETING TIMES:**
-
-*Unless otherwise specified in the Slack Channel:*
+( *Unless otherwise specified in the Slack Channel:* )
 
 **Webinar:** Mondays & Wednesdays from 6:45 PM - 8:00 PM
 
