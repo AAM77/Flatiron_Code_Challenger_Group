@@ -32,7 +32,7 @@ Please see the [Code Challenge Resources PDF ](https://github.com/AAM77/Flatiron
 <br />
 
 ### Fourth: Random Participant
-Use the [Choose Participant](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Choose Participant") selects a participant at random if no one volunteers.
+Use the [Choose Participant](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/choose_participant.js "Choose Participant") selects a participant at random if no one volunteers.
 
 1. On a mac, open a new tab in the Google Chrome browser.
 2. Press Command-Option-J to open the developer tools.<br />
