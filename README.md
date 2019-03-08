@@ -4,7 +4,8 @@
 
 This repo is meant to help manage a weekly coding challenge group comprised of Flatiron students. It also contains all of the challenges from our in-person and webinar sessions.
 
-Please see below for more details:
+Please see below for more details: <br />
+(Collaborators, please scroll down to the Permissions section for instructions.)
 
 ## FOR THE NEW FOLKS:
 
@@ -46,9 +47,15 @@ Use the code in the [Choose Participant](https://github.com/AAM77/Flatiron_Code_
 ## PERMISSIONS:
 Currently, only collaborators are allowed to make changes to this repo.
 
-Collaborators, please see below for instructions.
+### Links that will help:
+Collaborators, please see one or both of the following links for a detailed explanation for how to collaborate using mac/windows/linux:
 
-## An Overview of How GitHub Works:
+https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267
+<br />
+<br />
+https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
+
+### If you're new to GitHub - A Basic Overview:
 
 Please see the [GitHub Explanation File](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/GitHub_Explanation.md "Basic Explanation of GitHub") on the main page of this repository for a basic understanding of how GitHub works and the common terms associated with its use.
 
@@ -63,9 +70,9 @@ The best way to commit/add updates is to:
 
 Then, once the commits have been finalized and approved, they will get merged with the master branch.
 
-## How to Use
+### How to Collaborate
 
-1. Make the updates to a new branch. Include the date in its title.
+1. Fork & Make the updates to a new branch. Include the date in its title.
 
 2. Copy and paste the mon_date_year folder.
 
@@ -78,11 +85,8 @@ Then, once the commits have been finalized and approved, they will get merged wi
 7. git push [location url] [branch_name]
 
 
+Please see one or both of the following link for a detailed explanation for how to collaborate using mac/windows/linux:
 
-Please see the following link for a detailed explanation for how to collaborate using mac/windows/linux:
+https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267
 
 https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
-
-Feel free to edit the README to include more info.
-Perhaps the finalized version of the Google Doc can go here?
-Or separate files for the Guidelines and resources?
