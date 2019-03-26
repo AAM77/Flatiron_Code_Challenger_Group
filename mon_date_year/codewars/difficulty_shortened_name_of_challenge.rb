@@ -1,12 +1,18 @@
-# Name: [Challenge Name]
-# Difficulty: [(e.g. 8 kyu, 7 kyu, easy, medium, 6 kyu, etc.)]
+# Name:
+# Difficulty:
+
+# Website:
+# URL:
+
+# Attempted by:
+
+# Feedback:
+# Comment 1 by
 #
-# --- sources ---
-# Website: [(e.g. CodeWars, LeetCode, HackerRank, etc.)]
-# URL: [(e.g. https://...)]
+
+# Comment 2 by
 #
-#
-#
+
 ##################
 #                #
 #  Instructions  #
@@ -14,56 +20,18 @@
 ##################
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+
+
 ##############
 # PSEUDOCODE #
 ##############
 #
 #
-#
-#
-#
-#
-#
-#
 
 
-##################
-# RUBY SOLUTIONS #
-##################
-
-#**********************#
-# [person's] Attempt 1 #
-#**********************#
-
-#**********************#
-# [person's] Attempt 2 #
-#**********************#
-
-#******************************#
-# [another person's] Attempt 1 #
-#******************************#
-
-#******************************#
-# [another person's] Attempt 2 #
-#******************************#
-
-
-
-
-########################
-# JAVASCRIPT SOLUTIONS #
-########################
+#############
+# SOLUTIONS #
+#############
 
 #**********************#
 # [person's] Attempt 1 #
