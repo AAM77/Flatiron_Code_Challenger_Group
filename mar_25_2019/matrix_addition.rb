@@ -36,7 +36,7 @@
     # once the iteration through an inner array of 'a' (matrix row) is finished:
     # push the matrix_row array into a final_array
   # output the final array
-  
+
 #*******************#
 # Adeel's Attempt 1 #
 #*******************#
