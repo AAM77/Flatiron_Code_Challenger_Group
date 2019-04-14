@@ -42,21 +42,16 @@ The group's core purpose is to help members become comfortable solving code chal
 
 ### Second: Group & Session Guidelines
 1. Inviting New Members
+New members are more than welcome! But, there are some guidelines:
+
+a. In the interest of scalability and maintaining a supportive atmosphere, membership is currently by invitation only.
+b. We (admins) prefer that you are somewhat familiar with the candidate. This is important to increase the likelihood that the person you are inviting is supportive and has an interest in learning, improving, and offering feedback.
 <br />
-New members are more than welcome! But, there are some guidelines.
+c. Please make sure the candidates have read the group's agenda/ manual/  guidelines if they express interest. Send them a link to the repository and instruct them to read the ReadMe.
 <br />
-In the interest of scalability and maintaining a supportive atmosphere, membership is currently by invitation only.
+d. Please check with the group before inviting (especially the admins).
 <br />
-<br />
-Current members are welcome to invite fellow coders from Flatiron, but there are some preferred guidelines:
-<br /><br />
-a. We (admins) prefer that you are somewhat familiar with the candidate. This is important to increase the likelihood that the person you are inviting is supportive and has an interest in learning, improving, and offering feedback.
-<br />
-b. Please make sure the candidates have read the group's agenda/ manual/  guidelines if they express interest. Send them a link to the repository and instruct them to read the ReadMe.
-<br />
-c. Please check with the group before inviting (especially the admins).
-<br />
-d. Once invited, please provide the proper introductions to help everyone get acquainted.
+e. Once invited, please provide the proper introductions to help everyone get acquainted.
 <br />
 <br />
 
