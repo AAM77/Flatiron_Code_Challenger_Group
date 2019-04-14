@@ -18,7 +18,7 @@ Hi there and welcome!
 <br />
 
 ### A Brief History of the Group
-The idea for the group was originally posited by pcherian (Paul) in January 2019. Later, he, pmknyc (Paula), wendisha (Wendy), and aam77 (Adeel) unanimously decided to create the group on February 16, 2019 and became its founding members. All of us have since worked together to schedule online and in-person sessions. We also developed a reasonable format for the sessions, established the group's guidelines (Agenda/ Manual), and created the GitHub repository after incorporating feedback from the group's existing and new members.
+The idea for the group was originally posited by pcherian (Paul) in January 2019. Later, he, pmknyc (Paula), wendisha (Wendy), and aam77 (Adeel) unanimously decided to create the group on February 16, 2019 and became its founding members. All of us have since worked together to schedule online and in-person sessions. We also developed a resonably efficient format for the sessions, established the group's guidelines (Agenda/ Manual), and created the GitHub repository after incorporating feedback from the group's existing and new members.
 <br />
 <br />
 It has been quite the adventure so far and all of our members have benefited immensely from the sessions and the knowledge we share with one another about coding techniques and interview experiences. We hope to continue refining various aspects of the group and eventually benefit fellow Flatiron students as well as the larger coding community.
