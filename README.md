@@ -55,7 +55,6 @@ New members are more than welcome! But, there are some guidelines:
 1. Please read the [Detailed Meeting Guidelines PDF](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_Detailed.pdf " Detailed Meeting Guidelines") file for a detailed explanation of meeting etiquette and expectations.
 2. Alternatively, you can read the TLDR version here: [TLDR Meeting Guidelines](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_TLDR.pdf "TLDR Meeting Guidelines")
 <br />
-<br />
 
 ### Third: Important Links
 Submit Links for Code Challenge Contributions Here:
@@ -64,8 +63,7 @@ Submit Links for Code Challenge Contributions Here:
 
 Submit Solutions for Attempted Code Challenges Here:
 [Code Challenge Solutions](https://docs.google.com/document/d/1mnIeXfadnRl6UkYHi7MJVLyknVQjIhxOkmG8UAKm6Ls/edit "Code Challenge Solutions")
-
-
+<br />
 
 ### Fourth: Resources
 Please see the [Code Challenge Resources PDF ](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Code Challenge Resources") file for resources to find code challenges and help. You can use other sources as well.
@@ -87,7 +85,7 @@ Use the code in the [Choose Participant](https://github.com/AAM77/Flatiron_Code_
 ## PERMISSIONS:
 Currently, only collaborators are allowed to make changes to this repo.
 
-### Links that will help:
+### Links to Tutorials:
 Collaborators, please see one or both of the following links for a detailed explanation for how to collaborate using mac/windows/linux:
 
 https://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267
