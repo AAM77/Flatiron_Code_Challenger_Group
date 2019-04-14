@@ -58,11 +58,11 @@ New members are more than welcome! But, there are some guidelines:
 
 ### Third: Important Links
 Submit Links for Code Challenge Contributions Here:
-[Code Challenge Submissions](https://docs.google.com/document/d/1mnIeXfadnRl6UkYHi7MJVLyknVQjIhxOkmG8UAKm6Ls/edit?usp=sharing "Code Challenge Submissions")
+[Add the Links for Today's Code Challenge Contributions Here](https://docs.google.com/document/d/1a5zHbklr8HJ0qLJx7MYvjxOwRIZ7-H9DUty02AJms1s/edit?usp=sharing "Add the Links for Today's Code Challenge Contributions Here")
 <br />
 
 Submit Solutions for Attempted Code Challenges Here:
-[Code Challenge Solutions](https://docs.google.com/document/d/1mnIeXfadnRl6UkYHi7MJVLyknVQjIhxOkmG8UAKm6Ls/edit "Code Challenge Solutions")
+[Submit Your Solutions for the Attempted Code Challenges Here](https://docs.google.com/document/d/1mnIeXfadnRl6UkYHi7MJVLyknVQjIhxOkmG8UAKm6Ls/edit "Submit Your Solutions for the Attempted Code Challenges Here")
 <br />
 <br />
 
