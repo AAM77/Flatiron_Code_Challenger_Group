@@ -64,6 +64,7 @@ Submit Links for Code Challenge Contributions Here:
 Submit Solutions for Attempted Code Challenges Here:
 [Code Challenge Solutions](https://docs.google.com/document/d/1mnIeXfadnRl6UkYHi7MJVLyknVQjIhxOkmG8UAKm6Ls/edit "Code Challenge Solutions")
 <br />
+<br />
 
 ### Fourth: Resources
 Please see the [Code Challenge Resources PDF ](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Code_Challenge_Resources.pdf "Code Challenge Resources") file for resources to find code challenges and help. You can use other sources as well.
