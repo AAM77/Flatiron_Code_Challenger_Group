@@ -29,7 +29,7 @@ The group's core purpose is to help members become comfortable solving code chal
 <br />
 <br />
 
-## Important Information: Meeting Times, Guidelines, Links, and Resources
+## IMPORTANT INFORMATION: Meeting Times, Guidelines, Links, and Resources
 
 ### First: **Meeting Times** <br />
 ( *Unless otherwise specified in the Slack Channel:* )
