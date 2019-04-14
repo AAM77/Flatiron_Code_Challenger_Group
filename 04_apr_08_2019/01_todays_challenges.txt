@@ -1,0 +1,7 @@
+1. Adeel - (8 kyu) A needle in a haystack - https://www.codewars.com/kata/a-needle-in-the-haystack/train/ruby 
+2. Adeel - (8 kyu) Jenny’s Secret Message - https://www.codewars.com/kata/jennys-secret-message/train/ruby 
+3. Adeel - (7 kyu) List Filtering - https://www.codewars.com/kata/list-filtering/train/ruby 
+4. Adeel - (7 kyu) Shortest Word - https://www.codewars.com/kata/shortest-word/train/ruby 
+5. Adeel - (6 kyu) Your order, please - https://www.codewars.com/kata/your-order-please/train/ruby 
+6. Adeel - (6 kyu) Build a tower - https://www.codewars.com/kata/build-tower/train/ruby 
+7. Paul - Pinterest Interview Challenge
