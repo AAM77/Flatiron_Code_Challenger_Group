@@ -1,6 +1,6 @@
-# Flatiron_Code_Challenger_Group
+# Interview Practice Group (Code Challenger Group)
 
-## Code Challenges from Flatiron Interview Prep Group
+## What this Repository is For
 
 This repository is meant to:
 1. Help keep track of the weekly sessions and code challenges.
@@ -9,6 +9,7 @@ This repository is meant to:
 
 Please see below for more details: <br />
 Collaborators may scroll to the bottom of the page (Permissions section) for a guide on how to collaborate.
+<br />
 
 ## FOR THE NEW FOLKS:
 
@@ -24,8 +25,8 @@ It has been quite the adventure so far and all of our members have benefited imm
 <br />
 <br />
 
-### Core Purpose
-The group's core purpose is to help members become comfortable solving code challenges while successfully communicating code, analysis, and thought process during technical interviews. We accomplish this through mock technical interviews, where one person takes the hot seat to solve a challenge while the rest act as interviewers. Afterwards, we offer help and constructive feedback while fostering and maintaining a safe and comfortable atmosphere for all of our members. We motivate and encourage each other to reach beyond our limits while remaining kind, courteous, understanding, mindful, and respectful towards one another.
+### Core Mission
+The group's core mission is to help coders become comfortable solving code challenges while successfully communicating code, analysis, and thought process during technical interviews. We accomplish this through mock technical interviews, where one person takes the hot seat to solve a challenge while the rest act as interviewers. Afterwards, we offer help and constructive feedback while fostering and maintaining a safe and comfortable atmosphere for all of our members. We motivate and encourage each other to reach beyond our limits while remaining kind, courteous, understanding, mindful, and respectful towards one another.
 <br />
 <br />
 
