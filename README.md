@@ -41,7 +41,7 @@ The group's core purpose is to help members become comfortable solving code chal
 <br />
 
 ### Second: Group & Session Guidelines
-##### A. Inviting New Members
+#### A. Inviting New Members
 New members are more than welcome! But, there are some guidelines:
 
 1. In the interest of scalability and maintaining a supportive atmosphere, membership is currently by invitation only.
@@ -50,7 +50,7 @@ New members are more than welcome! But, there are some guidelines:
 4. Please check with the group before inviting (especially the admins).
 5. Once invited, please provide the proper introductions to help everyone get acquainted.
 
-##### B. Session Guidelines
+#### B. Session Guidelines
 1. Please read the [Detailed Meeting Guidelines PDF](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_Detailed.pdf " Detailed Meeting Guidelines") file for a detailed explanation of meeting etiquette and expectations.
 2. Alternatively, you can read the TLDR version here: [TLDR Meeting Guidelines](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_TLDR.pdf "TLDR Meeting Guidelines")
 <br />
