@@ -46,19 +46,14 @@ New members are more than welcome! But, there are some guidelines:
 
 1. In the interest of scalability and maintaining a supportive atmosphere, membership is currently by invitation only.
 2. We (admins) prefer that you are somewhat familiar with the candidate. This is important to increase the likelihood that the person you are inviting is supportive and has an interest in learning, improving, and offering feedback.
-<br />
 3. Please make sure the candidates have read the group's agenda/ manual/  guidelines if they express interest. Send them a link to the repository and instruct them to read the ReadMe.
-<br />
 4. Please check with the group before inviting (especially the admins).
-<br />
 5. Once invited, please provide the proper introductions to help everyone get acquainted.
 <br />
 <br />
 
 B. Session Guidelines
-<br />
 1. Please read the [Detailed Meeting Guidelines PDF](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_Detailed.pdf " Detailed Meeting Guidelines") file for a detailed explanation of meeting etiquette and expectations.
-<br />
 2. Alternatively, you can read the TLDR version here: [TLDR Meeting Guidelines](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_TLDR.pdf "TLDR Meeting Guidelines")
 <br />
 <br />
