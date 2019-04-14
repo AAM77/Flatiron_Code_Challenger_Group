@@ -1,0 +1,3 @@
+Adeel - (8 kyu) Are you playing banjo - https://www.codewars.com/kata/are-you-playing-banjo/train/ruby
+Adeel - (7 kyu) Two to One - https://www.codewars.com/kata/two-to-one/train/ruby
+Paula - (6 kyu) Create a Frame - https://www.codewars.com/kata/create-a-frame
