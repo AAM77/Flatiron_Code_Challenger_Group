@@ -43,15 +43,13 @@ The group's core purpose is to help members become comfortable solving code chal
 ### Second: Group & Session Guidelines
 1. Inviting New Members
 <br />
-<br />
 New members are more than welcome! But, there are some guidelines.
-<br />
 <br />
 In the interest of scalability and maintaining a supportive atmosphere, membership is currently by invitation only.
 <br />
 <br />
 Current members are welcome to invite fellow coders from Flatiron, but there are some preferred guidelines:
-<br />
+<br /><br />
 a. We (admins) prefer that you are somewhat familiar with the candidate. This is important to increase the likelihood that the person you are inviting is supportive and has an interest in learning, improving, and offering feedback.
 <br />
 b. Please make sure the candidates have read the group's agenda/ manual/  guidelines if they express interest. Send them a link to the repository and instruct them to read the ReadMe.
@@ -63,7 +61,6 @@ d. Once invited, please provide the proper introductions to help everyone get ac
 <br />
 
 2. Session Guidelines
-<br />
 <br />
 a. Please read the [Detailed Meeting Guidelines PDF](https://github.com/AAM77/Flatiron_Code_Challenger_Group/blob/master/Group_Session_Guidelines_Detailed.pdf " Detailed Meeting Guidelines") file for a detailed explanation of meeting etiquette and expectations.
 <br />
