@@ -1,0 +1,7 @@
+Adeel - (8 k) - https://www.codewars.com/kata/rock-paper-scissors/train/ruby
+Adeel - (8 k) - https://www.codewars.com/kata/beginner-reduce-but-grow/train/ruby
+Adeel - (7 k) - https://www.codewars.com/kata/printer-errors/train/ruby
+Adeel - (7 k) - https://www.codewars.com/kata/categorize-new-member/train/ruby
+Adeel - (6 k) - https://www.codewars.com/kata/iq-test/train/ruby
+Adeel - (6 k) - https://www.codewars.com/kata/consecutive-strings/train/ruby
+Adeel - (6 k) - https://www.codewars.com/kata/vasya-clerk/train/javascript (JS only)
