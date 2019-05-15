@@ -99,3 +99,32 @@ end
 # Tests
 # validBraces( "()" )
 # validBraces( "[(])" )
+
+
+#***********#
+# Attempt 2 # (Adeel)
+#***********#
+# (05-14-2019)
+
+# RUBY #
+
+def validBraces(braces)
+
+  braces_stack = []
+
+  braces_hash = {
+    ')':'(',
+    '}':'{',
+    ']':'['
+  }
+
+  braces.split('').each do |brace|
+    if brace == '(' || brace == '{' || brace == '['
+      braces_stack.push(brace)
+    else
+      braces_stack[braces_stack.length - 1] == braces_hash[brace.to_sym] ? braces_stack.pop : (return false)
+    end
+  end
+
+  braces_stack.empty? ? true : false
+end
