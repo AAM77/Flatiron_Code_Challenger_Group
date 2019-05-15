@@ -38,7 +38,17 @@
 ##############
 # PSEUDOCODE #
 ##############
+# iterate through the array
+ # push each opening brace into a new array called brace_stack (it is now in position n)
+ # but, if the next brace is a closing brace:
+   # if it is the complement of the opening brace in position n (brace_stack[n], then
+     # pop off the brace in position n
 
+   # else (if it is not a complement)
+     # return false
+
+ # once the iteration is done, check to see if the stack array is empty
+ # if yes, return true. If no, return false
 
 
 ##################
