@@ -1,4 +1,4 @@
-# Name: Reverse or Rotate?
+# Name: Valid Braces
 # Difficulty: 6 kyu
 
 # --- sources ---
