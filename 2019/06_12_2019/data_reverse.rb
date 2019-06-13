@@ -1,3 +1,4 @@
+# Date:  6/12/19 remote meeting
 # Name: Data Reverse
 # Difficulty: 6 kyu
 
@@ -78,3 +79,4 @@ end
   
 # data_reverse([0,0,1,1,0,1,1,0, 0,0,1,0,1,0,0,1]
 #  =>  [0,0,1,0,1,0,0,1, 0,0,1,1,0,1,1,0]
+
