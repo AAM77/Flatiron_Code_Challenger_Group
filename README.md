@@ -35,7 +35,7 @@ The group's core mission is to help coders become comfortable solving code chall
 ### First: **Meeting Times** <br />
 ( *Unless otherwise specified in the Slack Channel:* )
 
-**Webinar:** Mondays & Wednesdays from 6:45 PM - 8:00 PM
+**Webinar:** Generally 1 hour long. We poll every Friday to determine the most popular times for the following week.
 
 **In-Person:** Please see Slack for the date & time of the monthly meeting.
 <br />
