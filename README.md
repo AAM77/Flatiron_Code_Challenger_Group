@@ -26,7 +26,7 @@ It has been quite the adventure so far and all of our members have benefited imm
 <br />
 
 ### Core Mission
-The group's core mission is to help coders become comfortable solving code challenges while successfully communicating code, analysis, and thought process during technical interviews. We accomplish this through mock technical interviews, where one person takes the hot seat to solve a challenge while the rest act as interviewers. Afterwards, we offer help and constructive feedback while fostering and maintaining a safe and comfortable atmosphere for all of our members. We motivate and encourage each other to reach beyond our limits while remaining kind, courteous, understanding, mindful, and respectful towards one another.
+The group's core mission is to help coders become comfortable solving code challenges under time constraints while successfully communicating their code, analysis, and thought process during technical interviews. We accomplish this through by placing the participant in the hot seat to solve a challenge while the rest act as interviewers. Afterwards, we offer help and constructive feedback while fostering and maintaining a safe and comfortable atmosphere for all of our members. We motivate and encourage each other to reach beyond our limits while remaining kind, courteous, understanding, mindful, and respectful towards one another.
 <br />
 <br />
 
@@ -35,15 +35,15 @@ The group's core mission is to help coders become comfortable solving code chall
 ### First: **Meeting Times** <br />
 ( *Unless otherwise specified in the Slack Channel:* )
 
-**Webinar:** Generally 1 hour long. We poll every Friday to determine the most popular times for the following week.
+**Webinar:** Generally 1 hour long. We set up polls to determine popular times.
 
-**In-Person:** Please see Slack for the date & time of the monthly meeting.
+**In-Person:** For members of the Slack channel. The date & time of the monthly meeting is announced there. This is where we do in-person coding & white boarding.
 <br />
 <br />
 
 ### Second: Group & Session Guidelines
 #### A. Inviting New Members
-New members are more than welcome! But, there are some guidelines:
+New members to the channel are more than welcome! But, there are some guidelines:
 
 1. In the interest of scalability and maintaining a supportive atmosphere, membership is currently by invitation only.
 2. We (admins) prefer that the member wishing to invite others is somewhat familiar with the candidate(s)---that is, you coded with the person once or twice.Tech coach recommendations will be considered. This is important because it increases the likelihood that the person you are inviting is supportive and has an interest in the group's mission and/or learning, improving, and offering feedback.
