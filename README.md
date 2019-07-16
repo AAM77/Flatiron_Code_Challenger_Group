@@ -56,8 +56,7 @@ Afterwards, we offer help and constructive feedback while fostering and maintain
 New members to the channel are more than welcome! But, there are some guidelines:
 
 1. In the interest of scalability and maintaining a supportive atmosphere, membership is currently by invitation only.
-<br />
-<br />
+
 2. We (admins) prefer that the member wishing to invite others is somewhat familiar with the candidate(s)---that is, you coded with the person once or twice.Tech coach recommendations will be considered. This is important because it increases the likelihood that the person you are inviting is supportive and has an interest in the group's mission and/or learning, improving, and offering feedback.
 <br />
 <br />
