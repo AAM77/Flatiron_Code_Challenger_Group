@@ -58,14 +58,11 @@ New members to the channel are more than welcome! But, there are some guidelines
 1. In the interest of scalability and maintaining a supportive atmosphere, membership is currently by invitation only.
 
 2. We (admins) prefer that the member wishing to invite others is somewhat familiar with the candidate(s)---that is, you coded with the person once or twice.Tech coach recommendations will be considered. This is important because it increases the likelihood that the person you are inviting is supportive and has an interest in the group's mission and/or learning, improving, and offering feedback.
-<br />
-<br />
+
 3. Please make sure the candidates have read the group's agenda/ manual/  guidelines if they express interest. Send them a link to the repository and instruct them to read the ReadMe.
-<br />
-<br />
+
 4. Please check with the group before inviting (especially the admins).
-<br />
-<br />
+
 5. Once invited, please provide the proper introductions to help everyone get acquainted.
 
 #### B. Session Guidelines
