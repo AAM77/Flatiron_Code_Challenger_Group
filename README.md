@@ -18,15 +18,21 @@ Hi there and welcome!
 <br />
 
 ### A Brief History of the Group
-The idea for the group was originally posited by pcherian (Paul) in January 2019. Later, he, pmknyc (Paula), wendisha (Wendy), and aam77 (Adeel) unanimously decided to create the group on February 16, 2019 and became its founding members. All of us have since worked together to schedule online and in-person sessions. We also developed a resonably efficient format for the sessions, established the group's guidelines (Agenda/ Manual), and created the GitHub repository after incorporating feedback from the group's existing and new members.
+Pcherian (Paul Cherian) originally posited the idea for this group in January 2019. Later, he, pmknyc (Paula McKinley), wendisha (Wendy Calderon), and aam77 (Mohammad Adeel) unanimously decided to create the group on February 16, 2019. They became its founding members. The first few members who joined shortly thereafter include Alwina Oyewoleturner, Theresa Morelli, & Isaac Villicana.
 <br />
 <br />
-It has been quite the adventure so far and all of our members have benefited immensely from the sessions and the knowledge we share with one another about coding techniques and interview experiences. We hope to continue refining various aspects of the group and eventually benefit fellow Flatiron students as well as the larger coding community.
+Since then, all of us have worked together to schedule online and in-person sessions. We also collaborated on developing a reasonably efficient format for the sessions, established the group's guidelines (Agenda/ Manual), and created the GitHub repository after incorporating feedback from the group's existing and new members.
+<br />
+<br />
+It has been quite the adventure so far and all of our members have benefited immensely from the sessions and the knowledge we share with one another about coding techniques and interview experiences. We hope to continue refining various aspects of the group to eventually benefit fellow Flatiron students as well as the larger coding community.
 <br />
 <br />
 
 ### Core Mission
-The group's core mission is to help coders become comfortable solving code challenges under time constraints while successfully communicating their code, analysis, and thought process during technical interviews. We accomplish this through by placing the participant in the hot seat to solve a challenge while the rest act as interviewers. Afterwards, we offer help and constructive feedback while fostering and maintaining a safe and comfortable atmosphere for all of our members. We motivate and encourage each other to reach beyond our limits while remaining kind, courteous, understanding, mindful, and respectful towards one another.
+The group's core mission is to help coders become comfortable solving code challenges under time constraints while successfully communicating their code, analysis, and thought process during technical interviews. We accomplish this through by placing the participant in the hot seat to solve a challenge while the rest act as interviewers.
+<br />
+<br />
+Afterwards, we offer help and constructive feedback while fostering and maintaining a safe and comfortable atmosphere for all of our members. We motivate and encourage each other to reach beyond our limits while remaining kind, courteous, understanding, mindful, and respectful towards one another.
 <br />
 <br />
 
@@ -35,20 +41,32 @@ The group's core mission is to help coders become comfortable solving code chall
 ### First: **Meeting Times** <br />
 ( *Unless otherwise specified in the Slack Channel:* )
 
-**Webinar:** Generally 1 hour long. We set up polls to determine popular times.
+**Webinar:** Generally 1 hour long. We set up polls to determine popular meeting times.
 
 **In-Person:** For members of the Slack channel. The date & time of the monthly meeting is announced there. This is where we do in-person coding & white boarding.
 <br />
 <br />
 
 ### Second: Group & Session Guidelines
-#### A. Inviting New Members
+#### A. Inviting New Members to the Group
+[ Under revision as ofJuly 2019 ]
+<br />
+<br />
+
 New members to the channel are more than welcome! But, there are some guidelines:
 
 1. In the interest of scalability and maintaining a supportive atmosphere, membership is currently by invitation only.
+<br />
+<br />
 2. We (admins) prefer that the member wishing to invite others is somewhat familiar with the candidate(s)---that is, you coded with the person once or twice.Tech coach recommendations will be considered. This is important because it increases the likelihood that the person you are inviting is supportive and has an interest in the group's mission and/or learning, improving, and offering feedback.
+<br />
+<br />
 3. Please make sure the candidates have read the group's agenda/ manual/  guidelines if they express interest. Send them a link to the repository and instruct them to read the ReadMe.
+<br />
+<br />
 4. Please check with the group before inviting (especially the admins).
+<br />
+<br />
 5. Once invited, please provide the proper introductions to help everyone get acquainted.
 
 #### B. Session Guidelines
